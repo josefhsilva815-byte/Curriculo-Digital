@@ -1,61 +1,37 @@
 :root {
     /* Cores: */
-    --gray: #808080;
-    --black: #000;
-    --white: #fff;
-
-    --: #020617;
-    --: #0F172A;
-    --: #334155;
-    --: #64748B;
-    --: #F1F5F9;
-
     --background:       #0F172A;
     --cards:            #1E293B;
-    --primaria:         #2563EB;
+    --destaque:         #2563EB;
     --hover:            #3B82F6;
     --texto-secundario: #94A3B8;
-    --texto:            #F8FAFC;
+    --texto-principal:            #F8FAFC;
 
-    --: #0B1120;
-    --: #111827;
-    --: #06B6D4;
-    --: #67E8F9;
-    --: #F8FAFC;
-
-    --:#102A43;
-    --:#243B53;
-    --:#486581;
-    --:#3E7CB1;
-    --:#F0F4F8;
+    /* Fontes */
+    --titulo: "Poppins";
+    --textos: "Inter";
 
 
     /* Números: */
-    --headerHeight: 200px;
+    --headerHeight: 220px;
     --footerHeight: 80px;
     --mainHeight: calc(100% - (var(--headerHeight) + var(--footerHeight)));
 }
 
-.bg-gray {
-    background-color: var(--gray) !important;
-}
+.bg-padrao {background-color: var(--background) !important;}
+.bg-cards { background-color: var(--cards) !important;}
+.bg-destaque {background-color: var(--destaque) !important;}
+.hover:hover { background-color: var(--hover) !important;}
+.texto-secundario {color: var(--texto-secundario) !important;}
+.texto-principal {color: var(--texto-principal) !important;}
 
-.bg-black {
-    background-color: var(--black) !important;
-}
+.h-nav {height: var(--headerHeight) !important;}
+.h-img {width: var(--headerHeight) !important;}
 
-.bg-white {
-    background-color: var(--white) !important;
-}
 
-.h-nav {
-    height: var(--headerHeight);
-}
+.h-main {min-height: var(--mainHeight) !important;}
 
-.h-footer {
-    height: var(--footerHeight);
-}
+.h-footer {height: var(--footerHeight) !important;}
 
-.h-main {
-    min-height: var(--mainHeight);
-}
+.titulo {font-family: var(--titulo) !important;}
+.textos {font-family: var(--textos) !important;}
