@@ -1,0 +1,69 @@
+┌──────────────────────────────────────────────────────────────────────┐
+│ Logo                     Sobre  Projetos  Skills  Contato        🌙  │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   👤 Foto                 João Silva                                 │
+│                        Desenvolvedor Full Stack                      │
+│                                                                      │
+│      "Construo aplicações modernas e escaláveis."                    │
+│                                                                      │
+│   [ Download CV ]      [ Contato ]                                   │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│ Sobre                                                             >  │
+│ Pequena apresentação em 4 ou 5 linhas.                               │
+├──────────────────────────────────────────────────────────────────────┤
+│ Habilidades                                                          │
+│                                                                      │
+│ 💻 HTML   ⚛ React   🟨 JS   🟦 TS   🐘 PHP   🐳 Docker            │
+│ ☁ AWS    🐙 GitHub  🐬 MySQL  🎨 Figma                             │
+├──────────────────────────────────────────────────────────────────────┤
+│ Experiência                                                          │
+│                                                                      │
+│ ● 2025  Desenvolvedor Full Stack                                     │
+│ ● 2023  Desenvolvedor Front-End                                      │
+│ ● 2022  Estágio                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│ Projetos                                                             │
+│                                                                      │
+│ ┌───────────┐ ┌───────────┐ ┌───────────┐                            │
+│ │ Projeto 1 │ │ Projeto 2 │ │ Projeto 3 │                            │
+│ └───────────┘ └───────────┘ └───────────┘                            │
+├──────────────────────────────────────────────────────────────────────┤
+│ Certificações                                                        │
+│                                                                      │
+│ 🏆 AWS     🏆 Scrum     🏆 Google                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│ Contato                                                              │
+│ 📧 Email   💼 LinkedIn   🐙 GitHub   📱 WhatsApp                   │
+└──────────────────────────────────────────────────────────────────────┘
+
+Mockup de um currículo virtual moderno
+
+Estilo minimalista e profissional
+Tema escuro
+Paleta:
+Fundo: #0F172A
+Cards: #1E293B
+Cor de destaque: #3B82F6
+Hover: #60A5FA
+Texto principal: #F8FAFC
+Texto secundário: #94A3B8
+Navbar fixa com logo e menu (Sobre, Experiência, Projetos, Habilidades, Contato)
+Hero com foto circular, nome, cargo, descrição e botões "Currículo" e "Contato"
+Cards modernos com cantos arredondados e sombra suave
+Seção de habilidades com ícones
+Timeline de experiência profissional
+Grade de projetos com imagens e botões
+Rodapé elegante
+Design inspirado em Vercel, GitHub e Linear
+Interface desktop (1440px) e responsiva
+Efeito de glassmorphism discreto e iluminação azul suave
+Aparência clean, sofisticada e tecnológica
+
+Obs: Pela sua ideia de um currículo virtual, eu seguiria um visual 
+próximo ao da Vercel: fundo azul-escuro (#0F172A), poucos elementos 
+coloridos, bastante espaçamento, tipografia Poppins (títulos) e 
+Inter (textos), ícones minimalistas e animações discretas. Esse estilo 
+transmite profissionalismo, facilita a leitura e mantém o foco no seu 
+conteúdo.
