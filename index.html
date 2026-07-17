@@ -9,12 +9,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container-fluid vh-100 min-vh-100 p-0 bg-padrao">
+    <div class="container-fluid h-body min-h p-0 bg-padrao">
         <header class="row m-0 h-nav">
             <div class="col-6 p-4 h-100 d-flex align-items-end justify-content-center">
                 <div>
@@ -36,15 +36,57 @@
             </div>
         </header>
 
-        <main class="row m-0 h-main bg-info">
-            <div class="col-12 p-0">
-                1. Sobre Mim
+        <main class="row m-0 h-main min-h bg-info">
+            <div class="col-12 px-3 py-2 border h-25 h-auto">
+                <p class="p-0 m-0 fs-4 fw-bold">Sobre</p>
+                <p class="p-0 m-0">Sou um desenvolvedor Full Stack iniciante, apaixonado por tecnologia e em busca da minha primeira oportunidade na área. Sou dedicado, proativo e estou sempre aprendendo novas tecnologias para crescer profissionalmente.</p>
             </div>
-            <div class="col-12">
-                2. Objetivos : Conseguir minha primeira vaga como junior 
+            <div class="col-12 px-3 py-2 border h-25 min-h">
+                <p class="p-0 m-0 fs-4 fw-bold">Habilidades</p>
+                <div class="row mt-2 texto-secundario h-75 min-h">
+                    <div id="front-end" class="col-md-3 col-sm-12 h-100 align-content-center bg-cards rounded-3 text-center">
+                        <h5>Front End</h5>
+                        <div>
+                            HTML
+                            CSS
+                            JS
+                            TS
+                            React
+                        </div>
+                    </div>
+                    <div id="back-end" class="col-md-3 col-sm-12 h-100 align-content-center bg-cards rounded-3 text-center">
+                        <h5>Back End</h5>
+                        <div>
+                            React
+                            Express.js
+                        </div>
+                    </div>
+                    <div id="data-base" class="col-md-3 col-sm-12 h-100 align-content-center bg-cards rounded-3 text-center">
+                        <h5>Banco de Dados</h5>
+                        <div>
+                            MySQL, SQLite, PostgresSQL
+                        </div>
+                    </div>
+                    <div id="versioning" class="col-md-3 col-sm-12 h-100 align-content-center bg-cards rounded-3 text-center">
+                        <h5>Versionamento</h5>
+                        <div>
+                            <i class="bi bi-git"></i> 
+                            <i class="bi bi-github"></i>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-12">
-                3. Stack principais(html, css, javascript)
+            <div class="col-12 px-3 py-2 border h-25 min-h">
+                <p class="p-0 m-0 fs-4 fw-bold">Experiência</p>
+                <p class="p-0 m-0 ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam, incidunt. Voluptatum, amet sint quidem nam rerum totam quasi sit repudiandae nisi voluptatem repellat modi dolor veritatis repellendus eum, magnam illum?</p>
+            </div>
+            <div class="col-12 px-3 py-2 border h-25 min-h">
+                <p class="p-0 m-0 fs-4 fw-bold">Certificações</p>
+                <p class="p-0 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam, incidunt. Voluptatum, amet sint quidem nam rerum totam quasi sit repudiandae nisi voluptatem repellat modi dolor veritatis repellendus eum, magnam illum?</p>
+            </div>
+            <div class="col-12 px-3 py-2 border h-75">
+                <p class="p-0 m-0 fs-4 fw-bold text-center">Projetos</p>
+                <p class="p-0 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam, incidunt. Voluptatum, amet sint quidem nam rerum totam quasi sit repudiandae nisi voluptatem repellat modi dolor veritatis repellendus eum, magnam illum?</p>
             </div>
         </main>
 

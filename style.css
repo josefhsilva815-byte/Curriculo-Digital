@@ -7,6 +7,7 @@
     --texto-secundario: #94A3B8;
     --texto-principal:            #F8FAFC;
 
+
     /* Fontes */
     --titulo: "Poppins";
     --textos: "Inter";
@@ -18,20 +19,20 @@
     --mainHeight: calc(100% - (var(--headerHeight) + var(--footerHeight)));
 }
 
-.bg-padrao {background-color: var(--background) !important;}
-.bg-cards { background-color: var(--cards) !important;}
-.bg-destaque {background-color: var(--destaque) !important;}
-.hover:hover { background-color: var(--hover) !important;}
-.texto-secundario {color: var(--texto-secundario) !important;}
-.texto-principal {color: var(--texto-principal) !important;}
+.bg-padrao        { background-color: var(--background) !important; }
+.bg-cards         { background-color: var(--cards) !important;      }
+.bg-destaque      { background-color: var(--destaque) !important;   }
+.hover:hover      { background-color: var(--hover) !important;      }
+.texto-secundario { color: var(--texto-secundario) !important;      }
+.texto-principal  { color: var(--texto-principal) !important;       }
 
-.h-nav {height: var(--headerHeight) !important;}
-.h-img {width: var(--headerHeight) !important;}
+.h-nav            { height: var(--headerHeight) !important;         }
+.h-img            { width: var(--headerHeight) !important;          }
+.h-body           { height: 100vh;                                  }
+.h-main           { height: var(--mainHeight);                      }
+.h-footer         { height: var(--footerHeight) !important;         }
+.min-h            { min-height: fit-content;                        }
 
 
-.h-main {min-height: var(--mainHeight) !important;}
-
-.h-footer {height: var(--footerHeight) !important;}
-
-.titulo {font-family: var(--titulo) !important;}
-.textos {font-family: var(--textos) !important;}
+.titulo           { font-family: var(--titulo) !important;          }
+.textos           { font-family: var(--textos) !important;          }

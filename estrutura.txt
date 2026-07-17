@@ -2,7 +2,7 @@
 │ Logo                     Sobre  Projetos  Skills  Contato        🌙  │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│   👤 Foto                 João Silva                                 │
+│   👤 Foto                 JS Godoi                                   │ 
 │                        Desenvolvedor Full Stack                      │
 │                                                                      │
 │      "Construo aplicações modernas e escaláveis."                    │
