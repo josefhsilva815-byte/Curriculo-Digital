@@ -15,8 +15,8 @@
 ├──────────────────────────────────────────────────────────────────────┤
 │ Habilidades                                                          │
 │                                                                      │
-│ 💻 HTML   ⚛ React   🟨 JS   🟦 TS   🐘 PHP   🐳 Docker            │
-│ ☁ AWS    🐙 GitHub  🐬 MySQL  🎨 Figma                             │
+│ 💻 HTML   ⚛ React   🟨 JS   🟦 TS   🐘 PHP   🐳 Docker               │
+│ ☁ AWS    🐙 GitHub  🐬 MySQL  🎨 Figma                               │
 ├──────────────────────────────────────────────────────────────────────┤
 │ Experiência                                                          │
 │                                                                      │

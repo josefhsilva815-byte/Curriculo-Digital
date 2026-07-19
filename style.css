@@ -33,6 +33,9 @@
 .h-footer         { height: var(--footerHeight) !important;         }
 .min-h            { min-height: fit-content;                        }
 
+.bd-color         { border-color:var(--texto-secundario) !important;}
 
 .titulo           { font-family: var(--titulo) !important;          }
 .textos           { font-family: var(--textos) !important;          }
+
+.link             { text-decoration: none !important;               }
