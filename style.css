@@ -39,3 +39,4 @@
 .textos           { font-family: var(--textos) !important;          }
 
 .link             { text-decoration: none !important;               }
+.status           { min-width: 80px !important;                     }
